@@ -16,6 +16,8 @@ I am sure we all need some kind of help to keep track of our earnings and spendi
 
 ## Demo
 
+![Budget Tracker](https://user-images.githubusercontent.com/88262115/166803800-37f64ce0-60bc-46c1-9f23-f467f049ce90.jpg)
+
 ## Usage
 
 Just open this live link to the web app and enjoy it:
