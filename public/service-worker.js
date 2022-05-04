@@ -7,6 +7,8 @@ const FILES_TO_CACHE = [
   "./css/style.css",
   "./js/index.js",
   "./js/idb.js",
+  "../routes/api.js",
+  "../models/transaction.js",
 ];
 
 self.addEventListener("fetch", function (e) {
